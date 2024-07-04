@@ -1,5 +1,6 @@
 {
   "version": "0.0.2",
   "msg": "更新了xxx",
-  "url": "http://lxcode.bs2cdn.yy.com/97e164ea-72be-4b12-a9ee-1601de12c214.zxp"
+  "macUrl": "http://lxcode.bs2cdn.yy.com/97e164ea-72be-4b12-a9ee-1601de12c214.zxp",
+  "winUrl": "http://lxcode.bs2cdn.yy.com/97e164ea-72be-4b12-a9ee-1601de12c214.zxp"
 }
